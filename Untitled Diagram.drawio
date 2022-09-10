@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T01:51:42.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.8" etag="ztw2QksRidzq8A8Ne-Iv" type="github"><diagram id="O2IFybclIg-IPo_noqSl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-10T09:22:43.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bm-hLJS5CwRXKjhqh4hB" version="18.0.2" type="github">
+  <diagram id="O2IFybclIg-IPo_noqSl" name="Page-1">
+    <mxGraphModel dx="-2995260" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="81swSzOpc_lDFe5qlIIw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=52;strokeWidth=2;" edge="1" parent="1" source="81swSzOpc_lDFe5qlIIw-1" target="81swSzOpc_lDFe5qlIIw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81swSzOpc_lDFe5qlIIw-1" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;小说网站的设计与实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3159320" y="350" width="760" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="81swSzOpc_lDFe5qlIIw-5" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3158910" y="610" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="81swSzOpc_lDFe5qlIIw-6" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;作者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3159525" y="610" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="81swSzOpc_lDFe5qlIIw-7" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;读者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160140" y="610" width="350" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
